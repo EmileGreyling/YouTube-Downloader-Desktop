@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=YouTube%20Downloader%20Desktop&animation=fadeIn&type=soft&color=gradient&height=150"/>
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=YouTube%20Downloader&animation=fadeIn&type=soft&color=gradient&height=150"/>
 </p>
 
 ### This project is a YouTube video downloader desktop application built using Python and CustomTkinter. It allows users to input a YouTube video URL or playlist and download the video(s) in available formats directly to their device. This README provides an overview of the project, setup instructions, usage guide, and potential areas for improvement.
